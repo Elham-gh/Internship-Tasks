@@ -1,7 +1,7 @@
 # Internship-Tasks
 
 # Task3
-Please run the command ```python tasks/task3.py``` to output image-level and pixel level difference and save image in the ```path_to_your_directory```. 
+Please run the command ```python task3/task3.py``` to output image-level and pixel level difference and save image in the ```path_to_your_directory```. 
 
 
 
@@ -18,4 +18,4 @@ I solved this question using adjacency matrix. Pleae run the command ```python b
 ['f', 'b', 'a', 'd', 'c', 'e']
 
 # Task 2
-I just added these few lines to show the algorithm I can think of in python to form a CircularArray, I could not think of an efficient algorithm for this, it is O(n). I have hard-coded a 4-element list as an example. Please run ```python tasks/task2.py``` and input the start index to print array.
+I just added these few lines to show the algorithm I can think of in python to form a CircularArray, I could not think of an efficient algorithm for this, it is O(n). I have hard-coded a 4-element list as an example. Please run ```python task2/task2.py``` and input the start index to print array.
