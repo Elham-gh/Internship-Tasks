@@ -16,3 +16,6 @@ Image difference.png is the visualization of the difference
 I solved this question using adjacency matrix. Pleae run the command ```python bonus_task/bonus1.py``` to output the order below:
 
 ['f', 'b', 'a', 'd', 'c', 'e']
+
+# Task 2
+I just added these few lines to show the algorithm I can think of in python to form a CircularArray, I could not think of an efficient algorithm for this, it is O(n).
