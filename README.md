@@ -11,3 +11,8 @@ Image difference.png is the visualization of the difference
 
 ![difference](https://github.com/Elham-gh/Internship-Tasks/assets/76242088/9c58789a-5963-48a3-a213-f56b21699fd4)
 
+
+#Bonus Task 1
+I solved this question using adjacency matrix. Pleae run the command ```python bonus_task/bonus1.py``` to output the order below:
+
+['f', 'b', 'a', 'd', 'c', 'e']
