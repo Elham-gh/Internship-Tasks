@@ -1,5 +1,3 @@
-
-___
 # Internship-Tasks
 
 # Task3
